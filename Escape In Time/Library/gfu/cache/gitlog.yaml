@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-10-03T16:22:35.404+03:00
+  initializedAtString: 2022-10-03T16:22:35.404+03:00
+  log:
+  - commitID: 1befd57e8b4e38ebe63abcb7b3871ead5bcb6159
+    mergeA: 
+    mergeB: 
+    authorName: leonardo-xompero
+    authorEmail: 61005729+leonardo-xompero@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2022-09-19T11:02:14.000+03:00
+    commitTimeString: 2022-09-19T11:02:14.000+03:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\admin\Desktop\GDC-Unity-Project\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\admin\Desktop\GDC-Unity-Project\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
