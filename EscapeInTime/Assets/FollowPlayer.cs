@@ -3,6 +3,7 @@ using UnityEngine;
 public class FollowPlayer : MonoBehaviour
 {
     // Reference to the Player
+    // It is necessary to add the Player object through the Unity Platform
     public Transform player;
 
     // Variable to modify the position of the camera compared to the Player
